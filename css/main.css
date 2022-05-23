@@ -1,0 +1,84 @@
+h3 {
+    color: black;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+/* home */
+
+.home {
+    text-align: center;
+    padding-top: 180px;
+    padding-bottom: 130px;
+}
+
+.profile {
+    border-radius: 30%;
+    padding: 0.5rem;
+    margin-top: 20px;
+    
+}
+
+.profile img {
+    border-radius: 30%;
+}
+
+/* about */
+
+.intext {
+    float: right;
+    margin-top: 35px;
+    padding-left: 50px;
+}
+
+/* passion */
+
+h1 {
+    text-align: center;
+}
+
+.lists{
+    text-align: center;
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+.list_img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 7vh 5vh;
+    margin-bottom: 50px;
+}
+
+.likes {
+    display:inline-flex;
+    margin-top: 60px;
+}
+
+/* contact */
+
+.four {
+    text-align: left;
+    align-items: left;
+}
+
+.img_icon {
+    width: 50px;
+    height: 52px;
+}
+
+.ct {
+    margin-top: 80px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-style: italic;
+    margin: 20px;
+}
